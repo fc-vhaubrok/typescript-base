@@ -9,8 +9,8 @@
 
 ### Checkliste der erledigten Aufgaben
 
-- [ ] Aufgabe 1 - Github-Account exists
-- [ ] Aufgabe 2 - fork, clone, change, commit, push
+- [x] Aufgabe 1 - Github-Account exists
+- [x] Aufgabe 2 - fork, clone, change, commit, push
 - [ ] Aufgabe 3 - NPM ready
 - [ ] Aufgabe 4 - TypeScript ready
 
