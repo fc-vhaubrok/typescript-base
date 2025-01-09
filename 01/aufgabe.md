@@ -12,7 +12,7 @@
 - [x] Aufgabe 1 - Github-Account exists
 - [x] Aufgabe 2 - fork, clone, change, commit, push
 - [x] Aufgabe 3 - NPM ready
-- [ ] Aufgabe 4 - TypeScript ready
+- [x] Aufgabe 4 - TypeScript ready
 
 ## Aufgabenstellungen
 
