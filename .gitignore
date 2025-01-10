@@ -37,3 +37,4 @@ coverage
 /version
 /lib/
 target/
+build/
